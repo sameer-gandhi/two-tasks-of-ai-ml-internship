@@ -1,0 +1,20 @@
+{
+    "messages": [
+        [
+            "Congratulations! You won \u20b950000 lottery",
+            "spam"
+        ],
+        [
+            "Get free recharge now!!!",
+            "spam"
+        ],
+        [
+            "Hello Sameer, your meeting is at 5 PM",
+            "ham"
+        ],
+        [
+            "Your package has been shipped",
+            "ham"
+        ]
+    ]
+}
