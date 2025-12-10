@@ -15,7 +15,7 @@ Both projects show how AI and Machine Learning can be applied to real-world prob
 **Goal:** Detect whether a message is spam or not (ham).  
 
 **Included Files:**
-- `pamdetector.py` – Python code for training the model and predicting messages  
+- `spamdetector.py` – Python code for training the model and predicting messages  
 - `spam_data.json` – Dataset containing sample messages  
 
 **What I did:**
