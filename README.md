@@ -53,6 +53,4 @@ Both projects show how AI and Machine Learning can be applied to real-world prob
 ## Final Report
 - `AI ML internship final report.pdf` – Contains introduction, objectives, methodology, code snippets, results, conclusion, skills gained, and references.
 
----
-
-## Suggested Folder Structure
+--
