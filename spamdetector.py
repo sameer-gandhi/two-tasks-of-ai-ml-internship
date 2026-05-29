@@ -1,6 +1,4 @@
-# 🚀 Complete Human-Made Spam Detector with Interactive Mode
-# This is the full standalone script with training + interactive mode + auto-save
-# Created for Sameer Malik
+
 
 import os
 import json
